@@ -1,5 +1,5 @@
 I recently switched to Linux Mint!
-             ...-:::::-...                 [username]@[username]-Inspiron-3537 
+```             ...-:::::-...                 [username]@[username]-Inspiron-3537 
           .-MMMMMMMMMMMMMMM-.              --------------------------- 
       .-MMMM`..-:::::::-..`MMMM-.          OS: Linux Mint 20.3 x86_64 
     .:MMMM.:MMMMMMMMMMMMMMM:.MMMM:.        Host: Inspiron 3537 A12 
@@ -17,4 +17,4 @@ I recently switched to Linux Mint!
      '-MMMM.-MMMMMMMMMMMMMMM-.MMMM-'       CPU: Intel i5-4200U (4) @ 2.600GHz 
        '.-MMMM``--:::::--``MMMM-.'         GPU: Intel Haswell-ULT 
             '-MMMMMMMMMMMMM-'              GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile 
-               ``-:::::-``                 Memory: 1816MiB / 7845MiB
+               ``-:::::-``                 Memory: 1816MiB / 7845MiB```
