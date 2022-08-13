@@ -1,12 +1,10 @@
-I recently switched to Fedora KDE!
+I use Arch BTW
 ```
-        ,'''''. 
-       |   ,.  |  os     Fedora Linux 36 (KDE Plasma)
-       |  |  '_'  host   Inspiron 3537 A12
-  ,....|  |..     kernel 5.18.6-200.fc36.x86_64
-.'  ,_;|   ..'    uptime 5h 18m
-|  |   |  |       pkgs   1994
-|  ',_,'  |       memory 2888M / 7830M
- '.     ,'
-   '''''
+       /\         ds@archlinux
+      /  \        os     Arch Linux
+     /\   \       host   Inspiron 3537 A12
+    /      \      kernel 5.18.16-arch1-1
+   /   ,,   \     uptime 1h 52m
+  /   |  |  -\    pkgs   857
+ /_-''    ''-_\   memory 2908M / 7837M
 ```
