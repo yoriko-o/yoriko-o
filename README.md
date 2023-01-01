@@ -1,14 +1,4 @@
-I use Arch BTW
-```
-                ds@endeavour          /\
-    //  \\      os     EndeavourOS Linux
-   //    \ \    host   Latitude 3460
- / /     _) )   kernel xxx
-/_/___-- __-    uptime xxx
- /____--        pkgs   xxx
-                memory xxx / 7855M
-```
-LOL, Jokes aside, lemme tell who I am:
+![banner](https://raw.githubusercontent.com/hyperio546/hyperio546/main/cover.png)
 - I am currently in school and I sometimes code too.
 - I do a lot of things over here and don't do only coding.
 - I am the best at web development and I am learning Python currently.
